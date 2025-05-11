@@ -1,0 +1,8 @@
+{
+"version": 1,
+"ids": {
+"100": { "node": "proxmox", "type": "qemu", "version": 2 },
+"102": { "node": "proxmox", "type": "qemu", "version": 3 },
+"101": { "node": "proxmox", "type": "qemu", "version": 1 }}
+
+}
